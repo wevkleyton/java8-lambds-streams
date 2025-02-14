@@ -1,1 +1,1 @@
-# java8-lambds-streams
+# java8-lambas-streams
